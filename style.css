@@ -149,6 +149,7 @@ body{
 .un-list li{
     margin-bottom: 20px;
     font-size: 2rem;
+    margin-left: 20px;
 }
 
 .project{
