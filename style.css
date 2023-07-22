@@ -26,14 +26,14 @@ body{
 
 .logo{
     font-size: 25px;
-    color:#5707ece4;
+    color:#5707ec;
     text-decoration: none;
     font-weight: 600;
 }
 
 .navbar a{
-    font-size: 20px;
-    color: #5707ece4;
+    font-size: 35px;
+    color: whitesmoke;
     text-decoration: none;
     font-weight: 500;
     margin-left: 35px;
@@ -41,7 +41,7 @@ body{
 }
 .navbar a:hover{
     color: blue;
-    font-size: 22px;
+    font-size: 40px;
 }
 
 .home{
@@ -145,31 +145,32 @@ body{
     font-size: 3rem;
     font-variant: small-caps;
     margin-bottom: 30px;
+    margin-left: 100px;
 }
 .un-list li{
     margin-bottom: 20px;
     font-size: 2rem;
-    margin-left: 20px;
+    margin-left: 150px;
 }
 
 .project{
     
     display: flex;
     justify-content: center;
-    gap: 2rem;background-color: #081b29;
+    gap: 1rem;background-color: #081b29;
 }
 .project img{
-    width: 400px;
+    width: 300px;
     margin: 10%;
 }
 .proj h1{
     font-size: 3rem;
     font-variant: small-caps;
-    margin-left: 20%;
+    margin-right: 20%;
 }
 .proj div{
     margin-bottom: 20px;
-    margin-left: 20%;
+    margin-right: 20%;
     max-width: 800px;
 }
 
